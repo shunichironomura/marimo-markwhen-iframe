@@ -36,4 +36,6 @@ This will open a marimo notebook in the browser.
 In the last cell of the notebook, `project.html` is embedded into the notebook using the [`marimo.iframe`](https://docs.marimo.io/api/html/#marimo.iframe) function.
 However, no event is rendered, only the timeline background.
 
+Notice that the events _are_ rendered only for the brief moment.
+
 ![Image](https://github.com/user-attachments/assets/9a45e844-2aee-4d01-b1ab-46e9eba63a01)
